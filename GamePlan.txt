@@ -1,0 +1,6 @@
+﻿Theme: Momentary
+
+Idea: A game where you fight multiple randomly spawning enemies in a randomly generated side-scroller map.
+Your goal is to go 2500 tiles to the right alive.
+The incorporation of the theme is that when you're about to die, you have one or two seconds to press a specific directional key to dodge.
+The intended purpose is to be a fast-paced game where your reaction Moments are tested both while in the field and near death.
